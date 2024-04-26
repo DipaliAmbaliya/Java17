@@ -1,0 +1,16 @@
+
+7
+java:S1220""Move this file to a named package.8ÚŸ´öœ1
+L
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8’¶¤öœ1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(èÜÊ¿8 ¶¤öœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸËø‡8Óı¤öœ1
+h
+java:S6201"FReplace this instanceof check and cast with 'instanceof Father father'(èÜÿ½ùÿÿÿÿ8§¶¤öœ1
+r
+java:S6201"PReplace this instanceof check and cast with 'instanceof GrandFather grandfather'(ï•¨İúÿÿÿÿ8¨¶¤öœ1
+G
+java:S2387&"*"name" is the name of a field in "Person".(Ê§…ñ8ª¶¤öœ1
+B
+java:S6217"%Remove this redundant permitted list.(òŞğ8­¶¤öœ1
